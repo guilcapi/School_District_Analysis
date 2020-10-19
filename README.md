@@ -11,12 +11,15 @@ The school board has notified that the students_complete.csv file shows evidence
 
 ## Results
 - How is the district summary affected? The school district summary changed very slightly with the average and the percent passing slightly decreasing for both math and reading.
+
 ![](/Resources/District_Summary.png)
 
 - How is the school summary affected? The school summary was affected because Thomas High School also went slightly down in average math score, percentage passing math, percent passing reading, and percent of overall passing with a slight increase of the average reading score.
+
 ![](/Resources/School_Summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Thomas High School after readjusting for 9th graders being excluded ended in second highest once again albeit with a slightly lower score in math scores, percent passing math and reading, and percent overall passing. 
+
 ![](/Resources/Comparison_Summary.png)
 
 - How does replacing the ninth-grade scores affect the following:
@@ -31,12 +34,15 @@ For reading:
 ![](/Resources/Reading_Grade_Summary.png)
 
 - Scores by school spending: The bin of $630-$644 was affected by Thomas High School slightly with the average math score going down, the average reading score going up, and the percent passing math, reading, and overall going down.
+
 ![](/Resources/School_Spending_Summary.png)
 
 - Scores by school size: The bin of "Medium (1000-2000)" students was affected by Thomas High School slightly with the average math score going down, the average reading score going up, and the percent passing math, reading, and overall going down.
+
 ![](/Resources/School_Size_Summary.png)
 
 - Scores by school type: The bin of "Charter" schools was affected by Thomas High School slightly with the average math score going down, the average reading score going up, and the percent passing math, reading, and overall going down.
+
 ![](/Resources/School_Type_Summary.png)
 
 ## Summary
