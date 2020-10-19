@@ -21,10 +21,13 @@ The school board has notified that the students_complete.csv file shows evidence
 
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade: The math and reading scores were affected for Thomas High School 9th graders as these were made to be NaN until the investigation is complete.
+
 For math:
+
 ![](/Resources/Math_Grade_Summary.png)
 
 For reading:
+
 ![](/Resources/Reading_Grade_Summary.png)
 
 - Scores by school spending: The bin of $630-$644 was affected by Thomas High School slightly with the average math score going down, the average reading score going up, and the percent passing math, reading, and overall going down.
@@ -37,4 +40,9 @@ For reading:
 ![](/Resources/School_Type_Summary.png)
 
 ## Summary
-Four major changes in the updated school district analysis occured after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The analysis for math grades was affected by the NaNs of Thomas High School so it was not easy to compare schools for that specific year. The analysis for reading grades was affected by the NaNs of Thomas High School so it was not easy to compare schools for that specific year. The overall rank of Thomas High School was not affected by the removal of the 9th grade grades indicating that Thomas High School is an overall good school to be able to remain in second place even after potential academic dishonesty occuring. The averages were barely affected by the removal of the ninth grade grades of Thomas High School indicating that the true scores for this grade should be similar to what was submitted or it would be different from the school's overall performance.
+Four major changes in the updated school district analysis occured after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
+
+- The analysis for math grades was affected by the NaNs of Thomas High School so it was not easy to compare schools for that specific year. 
+- The analysis for reading grades was affected by the NaNs of Thomas High School so it was not easy to compare schools for that specific year. 
+- The overall rank of Thomas High School was not affected by the removal of the 9th grade grades indicating that Thomas High School is an overall good school to be able to remain in second place even after potential academic dishonesty occuring. 
+- The averages were barely affected by the removal of the ninth grade grades of Thomas High School indicating that the true scores for this grade should be similar to what was submitted or it would be different from the school's overall performance.
